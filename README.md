@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Parth Petkar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from Pune, India</h3>
 
-- 🔭 I’m currently working on [Invoice Generator](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js)
+- I’m **Barclay's Hack-O-Hire Finalist**
+  
+- 🔭 I’m currently working on **[Invoice Generator](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js)**
 
 - 🌱 I’m currently learning **Deep Learning, MERN Stack, Java, C++**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-theta-liart-85.vercel.app/](https://portfolio-theta-liart-85.vercel.app/)
+- 💬 Ask me about **ML, Electron, MySQL, React, Express, Deep Learning**
 
-- 💬 Ask me about **ML, Electron, MySQl, React, Express**
-
-- 📫 How to reach me **parth.petkar221@vit.edu**
+- 📫 How to reach me **parth.petkar221@vit.edu** or **[Linkedln Profile](https://www.linkedin.com/in/parth-petkar/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
