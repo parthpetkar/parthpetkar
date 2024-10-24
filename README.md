@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parth Petkar</h1>
 <h3 align="center">A passionate software developer from Pune, India</h3>
 
-- I’m **Barclay's Hack-O-Hire Finalist**
+- I’m **Barclay's Hack-O-Hire Finalist and ISRO's National Level Hackthon Finalist**
   
-- 🔭 I’m currently working on **[Invoice Generator](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js)**
+- 🔭 I’m currently working on **[CyberGuard-AI]([https://github.com/parthpetkar/Invoice-Generator-using-Electron.js](https://github.com/parthpetkar/CyberGuard-AI))**
 
-- 🌱 I’m currently learning **Deep Learning, MERN Stack, Java, C++**
+- 🌱 I’m currently learning **Deep Learning, C++**
 
-- 💬 Ask me about **ML, Electron, MySQL, React, Express, Deep Learning**
+- 💬 Ask me about **ML, Electron, MySQL, React, Express, Deep Learning, DevOps, AWS**
 
 - 📫 How to reach me **parth.petkar221@vit.edu** or **[Linkedln Profile](https://www.linkedin.com/in/parth-petkar/)**
 
@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/parth-petkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/parth-petkar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23044394/parth-petkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23044394/parth-petkar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/parthpetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/parthpetkar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/parthcodes12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/parthcodes12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/parthpetkar53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/parthpetkar53/" height="30" width="40" /></a>
 </p>
 
