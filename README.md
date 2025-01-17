@@ -61,28 +61,7 @@
 
 ### 🔥 Contributions
 <div align="center">
-  <img alt="Parth's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=parthpetkar&bg_color=0f2d3d&color=1cadfb&line=38c9fc&point=1cadfb&area=true&hide_border=true" />
+  <img alt="Parth's GitHub Contributions Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parthpetkar&bg_color=0f2d3d&color=1cadfb&line=38c9fc&point=1cadfb&area=true&hide_border=true" />
 </div>
 
 ---
-
-### 📜 Code Snippet
-```javascript
-const Parth = {
-    languages: {
-        primary: ["Python", "JavaScript", "C++"],
-        databases: ["MySQL", "MongoDB", "Postgres"],
-        markup: ["HTML5", "CSS3", "SASS"]
-    },
-    frameworks: {
-        frontend: ["React.js", "Electron.js", "TailwindCSS"],
-        backend: ["Node.js", "Express.js", "Flask"],
-        ml: ["TensorFlow", "Pandas"]
-    },
-    devOps: {
-        tools: ["Docker", "Kubernetes", "Git"],
-        cloud: ["AWS", "GCP"],
-        os: ["Linux"]
-    },
-    currentlyLearning: ["DevOps", "Golang"]
-};
