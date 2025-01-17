@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </div>
+
 ---
 
 ### About Me 🌟
@@ -59,9 +60,8 @@
 
 ---
 
-### 🔥 Contributions
-<div align="center">
-  <img alt="Parth's GitHub Contributions Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parthpetkar&bg_color=0f2d3d&color=1cadfb&line=38c9fc&point=1cadfb&area=true&hide_border=true" />
-</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
----
