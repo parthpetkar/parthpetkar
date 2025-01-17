@@ -12,9 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-</div>
 ### About Me 🌟
 - 🔭 **Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
 - 🌱 Currently working on **Satellite Data Processing and Analysis Projects**  
