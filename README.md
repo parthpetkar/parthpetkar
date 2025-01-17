@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="600" />
+  <div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200" height="150" />
+</div>
 </div>
 
 <h1 align="center">
@@ -12,9 +14,8 @@
 
 ### About Me 🌟
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </div>
-
 - 🔭 **Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
 - 🌱 Currently working on **Satellite Data Processing and Analysis Projects**  
 - 💬 Ask me about **Machine Learning, Electron, MySQL, React, Express, Deep Learning, DevOps, AWS**  
@@ -35,10 +36,6 @@
 ---
 
 ### 🏆 Achievements
-<div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200" height="150" />
-</div>
-
 - 🥇 **Finalist** at *Barclay's Hack-O-Hire*  
 - 🚀 **National Level Hackathon Finalist** at *ISRO's Hackathon*
 
@@ -47,21 +44,17 @@
 ### ⚡ GitHub Stats
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=parthpetkar&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <br>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=parthpetkar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
-  <br/>
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=parthpetkar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🛠️ Skills & Tools
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,mysql,mongodb,docker,kubernetes,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,express,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,mysql,mongodb,docker,kubernetes,aws,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,render" />
 </div>
 
 ---
@@ -78,18 +71,18 @@
 const Parth = {
     languages: {
         primary: ["Python", "JavaScript", "C++"],
-        databases: ["MySQL", "MongoDB"],
+        databases: ["MySQL", "MongoDB", "Postgres"],
         markup: ["HTML5", "CSS3", "SASS"]
     },
     frameworks: {
         frontend: ["React.js", "Electron.js", "TailwindCSS"],
-        backend: ["Node.js", "Express.js"],
-        ml: ["TensorFlow", "scikit-learn", "Pandas"]
+        backend: ["Node.js", "Express.js", "Flask"],
+        ml: ["TensorFlow", "Pandas"]
     },
     devOps: {
         tools: ["Docker", "Kubernetes", "Git"],
-        cloud: ["AWS"],
+        cloud: ["AWS", "GCP"],
         os: ["Linux"]
     },
-    currentlyLearning: ["Deep Learning", "Advanced C++"]
+    currentlyLearning: ["DevOps", "Golang"]
 };
