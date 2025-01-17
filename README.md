@@ -10,9 +10,11 @@
 
 
 <h3 align="center">A passionate software developer transforming ideas into code 🚀</h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-</div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/parthpetkar/count.svg" />
+</p>
 
 ---
 
@@ -59,9 +61,4 @@
 </div>
 
 ---
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/parthpetkar/count.svg" />
-</p>
 
