@@ -20,9 +20,10 @@
 
 ### About Me 🌟
 - 🔭 **Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
-- 🌱 Currently working on **Satellite Data Processing and Analysis Projects**  
-- 💬 Ask me about **Machine Learning, Electron, MySQL, React, Express, Deep Learning, DevOps, AWS**  
-- 🛠️ Exploring **Advanced C++ and Deep Learning Concepts**  
+- 🌱 Currently working on **AutoGeo**  
+- 💬 Ask me about **Electron, MySQL, React, Express, Deep Learning, DevOps, AWS, Docker**  
+- 🛠️ Exploring **DevOps and Cloud Computing**
+- Open Source Contributions in **[CesiumJS](https://github.com/CesiumGS/cesium)**
 
 <div align="center"> 
   <a href="mailto:parth.petkar221@vit.edu">
