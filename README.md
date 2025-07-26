@@ -19,7 +19,8 @@
 ---
 
 ### About Me 🌟
-- 🔭 **Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
+- Intern at **[Barclays India](https://www.barclays.in/)**
+- 🔭 ** Ex Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
 - 🌱 Currently working on **AutoGeo**  
 - 💬 Ask me about **Electron, MySQL, React, Express, Deep Learning, DevOps, AWS, Docker**  
 - 🛠️ Exploring **DevOps and Cloud Computing**
