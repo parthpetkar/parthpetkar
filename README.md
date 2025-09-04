@@ -19,9 +19,10 @@
 ---
 
 ### About Me 🌟
+- Intern at **Loam.ai**
 - Intern at **[Barclays India](https://www.barclays.in/)**
-- 🔭 ** Ex Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
-- 🌱 Currently working on **AutoGeo**  
+- 🔭 **Ex Software Development Intern at [National Remote Sensing Centre (NRSC), ISRO](https://www.nrsc.gov.in/)**  
+- 🌱 Currently working at **Loam.ai**
 - 💬 Ask me about **Electron, MySQL, React, Express, Deep Learning, DevOps, AWS, Docker**  
 - 🛠️ Exploring **DevOps and Cloud Computing**
 - Open Source Contributions in **[CesiumJS](https://github.com/CesiumGS/cesium)**
@@ -41,6 +42,7 @@
 ---
 
 ### 🏆 Achievements
+- **Finalist** at SBI Life Insurance Hackathon
 - 🥇 **Finalist** at *Barclay's Hack-O-Hire*  
 - 🚀 **National Level Hackathon Finalist** at *ISRO's Hackathon*
 
