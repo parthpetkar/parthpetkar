@@ -25,7 +25,7 @@
 - 🌱 Currently working at **Loam.ai**
 - 💬 Ask me about **Electron, MySQL, React, Express, Deep Learning, DevOps, AWS, Docker**  
 - 🛠️ Exploring **DevOps and Cloud Computing**
-- Open Source Contributions in **[CesiumJS](https://github.com/CesiumGS/cesium)**
+- Open Source Contributions in **[CesiumJS](https://github.com/CesiumGS/cesium)**, **[Supabase](https://github.com/supabase/supabase)**
 
 <div align="center"> 
   <a href="mailto:parth.petkar221@vit.edu">
