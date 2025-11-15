@@ -59,9 +59,9 @@
 
 ### 🛠️ Skills & Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,express,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,mysql,mongodb,docker,kubernetes,aws,gcp" /><br>
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,render" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,express,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,mysql,mongodb,docker,kubernetes,aws,gcp,terraform" /><br>
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,render,github actions" />
 </div>
 
 ---
