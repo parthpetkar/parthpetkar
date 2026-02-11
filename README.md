@@ -16,7 +16,8 @@
 ---
 
 ## 🌟 About Me  
-- 🚀 Currently Software Engineer at **Loam.ai**  
+- Currently Running at B2B SaaS Startup [**InclinedHQ**](https://www.linkedin.com/company/inclined-hq)
+- 🚀 Ex Software Engineer at **Loam.ai**  
 - 🛠 Previously Intern at **Barclays India**, **NRSC – ISRO**, **Loam.ai**  
 - 👨‍💻 Ask me about **Electron, MySQL, React, Express, Deep Learning, DevOps, AWS, Docker**  
 - ☁️ Exploring **Advanced DevOps & Cloud Computing**  
